@@ -1,0 +1,6 @@
+^.*\.working$
+^.*\.dev$
+^.*\.notes$
+^inst/dev
+^.*\.working
+

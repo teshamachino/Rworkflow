@@ -1,0 +1,16 @@
+Package: Rworkflow
+Title: R Workflow
+Description: Functions to expedite R workflow.
+Version: 0.1
+Depends: R (>= 3.1.0)
+Imports:
+   magrittr (>= 1.5),
+   DT (>= 0.18),
+   listviewer (>= 2.1),
+   utils (>= 3.6.1)
+Date: 2022-08-01
+Author: Tesha Machino <teshamachino@gmail.com>
+Maintainer: Tesha Machino <teshamachino@gmail.com>
+License: GPL-3
+Encoding: UTF-8
+RoxygenNote: 7.1.1

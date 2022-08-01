@@ -1,0 +1,24 @@
+R Helper Library
+
+
+- list dataframes
+ls()[sapply(ls(), function(i) class(get(i))) == "data.frame"]
+
+
+- datatable
+- view for View
+- jsonview
+
+- quick table view (or any object)
+
+- view all installed packages and versions
+- view all dataframes in memory
+- view all objects in memory
+- view all loaded packages
+- view memory allocations
+- list all functions for a packages
+
+- common packages
+- clear workspace
+
+
